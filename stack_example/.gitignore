@@ -1,0 +1,37 @@
+# Compilação de C
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+*.a
+*.lib
+
+# Arquivos de depuração
+*.dSYM/
+*.stackdump
+*.core
+
+# Arquivos gerados pelo Code::Blocks
+*.depend
+*.layout
+*.cbp.*   # backups de projetos
+*.workspace.*  # backups de workspaces
+
+# Diretórios de build
+bin/
+obj/
+build/
+
+# Arquivos temporários do sistema/IDE
+*.tmp
+*.log
+*.swp
+*.bak
+*.old
+
+# Diretórios de cache
+.vscode/
+.idea/
+*.cache/
